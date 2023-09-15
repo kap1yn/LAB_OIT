@@ -1,0 +1,20 @@
+    
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.news-item {
+    margin-bottom: 20px;
+}
+.news-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.news-content {
+    font-size: 16px;
+}
